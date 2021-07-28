@@ -1,0 +1,7 @@
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\b\Czar.Cms.IRepository\Debug\netcoreapp3.1\Czar.Cms.IRepository.deps.json
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\b\Czar.Cms.IRepository\Debug\netcoreapp3.1\Czar.Cms.IRepository.dll
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\i\Czar.Cms.IRepository\Debug\netcoreapp3.1\Czar.Cms.IRepository.csproj.AssemblyReference.cache
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\i\Czar.Cms.IRepository\Debug\netcoreapp3.1\Czar.Cms.IRepository.AssemblyInfoInputs.cache
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\i\Czar.Cms.IRepository\Debug\netcoreapp3.1\Czar.Cms.IRepository.AssemblyInfo.cs
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\i\Czar.Cms.IRepository\Debug\netcoreapp3.1\Czar.Cms.IRepository.csproj.CopyComplete
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\i\Czar.Cms.IRepository\Debug\netcoreapp3.1\Czar.Cms.IRepository.dll

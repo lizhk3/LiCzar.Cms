@@ -1,0 +1,9 @@
+D:\代码\Projects\Czar.Cms\Czar.Cms.ViewModels\bin\Debug\netcoreapp3.1\Czar.Cms.ViewModels.deps.json
+D:\代码\Projects\Czar.Cms\Czar.Cms.ViewModels\bin\Debug\netcoreapp3.1\Czar.Cms.ViewModels.dll
+D:\代码\Projects\Czar.Cms\Czar.Cms.ViewModels\bin\Debug\netcoreapp3.1\Czar.Cms.ViewModels.pdb
+D:\代码\Projects\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp3.1\Czar.Cms.ViewModels.csproj.AssemblyReference.cache
+D:\代码\Projects\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp3.1\Czar.Cms.ViewModels.AssemblyInfoInputs.cache
+D:\代码\Projects\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp3.1\Czar.Cms.ViewModels.AssemblyInfo.cs
+D:\代码\Projects\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp3.1\Czar.Cms.ViewModels.csproj.CoreCompileInputs.cache
+D:\代码\Projects\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp3.1\Czar.Cms.ViewModels.dll
+D:\代码\Projects\Czar.Cms\Czar.Cms.ViewModels\obj\Debug\netcoreapp3.1\Czar.Cms.ViewModels.pdb

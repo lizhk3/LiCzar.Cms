@@ -1,0 +1,9 @@
+D:\代码\Projects\Czar.Cms\Czar.Cms.IServices\bin\Debug\netcoreapp3.1\Czar.Cms.IServices.deps.json
+D:\代码\Projects\Czar.Cms\Czar.Cms.IServices\bin\Debug\netcoreapp3.1\Czar.Cms.IServices.dll
+D:\代码\Projects\Czar.Cms\Czar.Cms.IServices\bin\Debug\netcoreapp3.1\Czar.Cms.IServices.pdb
+D:\代码\Projects\Czar.Cms\Czar.Cms.IServices\obj\Debug\netcoreapp3.1\Czar.Cms.IServices.csproj.AssemblyReference.cache
+D:\代码\Projects\Czar.Cms\Czar.Cms.IServices\obj\Debug\netcoreapp3.1\Czar.Cms.IServices.AssemblyInfoInputs.cache
+D:\代码\Projects\Czar.Cms\Czar.Cms.IServices\obj\Debug\netcoreapp3.1\Czar.Cms.IServices.AssemblyInfo.cs
+D:\代码\Projects\Czar.Cms\Czar.Cms.IServices\obj\Debug\netcoreapp3.1\Czar.Cms.IServices.csproj.CoreCompileInputs.cache
+D:\代码\Projects\Czar.Cms\Czar.Cms.IServices\obj\Debug\netcoreapp3.1\Czar.Cms.IServices.dll
+D:\代码\Projects\Czar.Cms\Czar.Cms.IServices\obj\Debug\netcoreapp3.1\Czar.Cms.IServices.pdb

@@ -1,0 +1,13 @@
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\b\Czar.Cms.Test\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\b\Czar.Cms.Test\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\b\Czar.Cms.Test\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\b\Czar.Cms.Test\Debug\netcoreapp3.1\Czar.Cms.Test.deps.json
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\b\Czar.Cms.Test\Debug\netcoreapp3.1\Czar.Cms.Test.runtimeconfig.json
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\b\Czar.Cms.Test\Debug\netcoreapp3.1\Czar.Cms.Test.runtimeconfig.dev.json
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\b\Czar.Cms.Test\Debug\netcoreapp3.1\Czar.Cms.Test.dll
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\i\Czar.Cms.Test\Debug\netcoreapp3.1\Czar.Cms.Test.csproj.AssemblyReference.cache
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\i\Czar.Cms.Test\Debug\netcoreapp3.1\Czar.Cms.Test.AssemblyInfoInputs.cache
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\i\Czar.Cms.Test\Debug\netcoreapp3.1\Czar.Cms.Test.AssemblyInfo.cs
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\i\Czar.Cms.Test\Debug\netcoreapp3.1\Czar.Cms.Test.csproj.CopyComplete
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\i\Czar.Cms.Test\Debug\netcoreapp3.1\Czar.Cms.Test.dll
+D:\代码\Projects\Czar.Cms\.vs\Czar.Cms\v16\lut\0\i\Czar.Cms.Test\Debug\netcoreapp3.1\Czar.Cms.Test.genruntimeconfig.cache
